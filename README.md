@@ -1,4 +1,5 @@
-#capt_lbp810-1120
+# capt_lbp810-1120
+
 Fork of Boichat Nicolas [http://www.boichat.ch/nicolas/capt/] Linux CAPT driver for Canon LBP810/LBP1120
 
 Build PPD
