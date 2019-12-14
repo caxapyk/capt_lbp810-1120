@@ -14,7 +14,8 @@ fd = open("/dev/usb/lp<number>", O_RDWR | O_NONBLOCK);
 ```
 Build
 ```sh
- make
+cd capt-0.1
+make
 ```
 
 You need to have USB Printer support in your kernel. To install the
