@@ -756,7 +756,7 @@ int main(int argc, char** argv) {
 		}
 	}
 
-	fd = open("/dev/usb/lp1", O_RDWR | O_NONBLOCK);
+	fd = open("/dev/usb/lp0", O_RDWR | O_NONBLOCK);
 	//fd = open("/dev/lp0", O_RDWR);
 
 //	if (!reset_only) {

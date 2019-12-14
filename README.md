@@ -2,8 +2,8 @@
 
 Fork of Boichat Nicolas [http://www.boichat.ch/nicolas/capt/] Linux CAPT driver for Canon LBP810/LBP1120
 
-Build PPD
----------
+Build
+-----
 Be sure you Canon LBP810/LBP1120 on /dev/usb/lp0.
 Otherwise change in capt.c line
 ```sh
