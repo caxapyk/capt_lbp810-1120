@@ -26,7 +26,7 @@ sudo modprobe usblp
 And a new device should appear (/dev/usb/lp0) or your lp<number>. Type, as root:
 ```sh
 sudo chmod a+rw /dev/usb/lp0
-``
+```
 
 To give access to the printer to users (this is also needed for CUPS to work.)
 
